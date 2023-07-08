@@ -1,5 +1,3 @@
-# silo-stalker
-"Silo Stalker: Echoes of a Desolate World." Explore the wasteland, manage the Silo, and uncover its secrets.
 # Silo-Stalker
 
 Welcome to the Silo-Stalker repository, the development hub for the immersive game "Silo Stalker: Echoes of a Desolate World." This project combines elements from the STALKER series, the Wool book series by Hugh Howey, Fallout Shelter, and 2D platforming mechanics to create a captivating post-apocalyptic experience.
